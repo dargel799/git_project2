@@ -1,5 +1,5 @@
 def word_to_up(word):
-    """Делает слово капсом"""
+    """Возвращает капс"""
     return word.upper()
 
 
